@@ -6,7 +6,7 @@ Just a simple repo
 | - [ ] Mercury | more | more |
 | - [x] Venus | more |  <ul><li>- [x] item1</li><li>- [ ] item2</li></ul> |
 | - [x] asdsad | something |  <ul><li>- [x] checkBox </li></ul> |
-| - [x] dsffdsaf | something2 |  <ul><li>- [] checkBox </li></ul> |
+| - [x] dsffdsaf | something2 |   <ul><li>- [ ] item2</li></ul> |
 ___
 ### Solar System Exploration, 1950s – 1960s
 
