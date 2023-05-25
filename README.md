@@ -3,4 +3,5 @@ Just a simple repo
 | heading | header | head |
 | --- | --- | --- |
 | content | more content | text |
-| more | more | more |
+| -[x] item1 | more | more |
+| -[] item2 | more | more |
